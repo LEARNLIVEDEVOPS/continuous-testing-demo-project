@@ -1,5 +1,5 @@
-package com.edurekademo.utilities;
-import com.edurekademo.utilities.LoggerStackTraceUtil;
+package com.tcsiondemo.utilities;
+import com.tcsiondemo.utilities.LoggerStackTraceUtil;
 import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
