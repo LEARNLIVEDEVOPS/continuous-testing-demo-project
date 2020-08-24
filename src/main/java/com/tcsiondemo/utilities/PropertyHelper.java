@@ -1,4 +1,4 @@
-package com.edurekademo.utilities;
+package com.tcsiondemo.utilities;
 
 import java.util.Enumeration;
 import java.util.HashMap;
@@ -12,7 +12,7 @@ import java.util.Properties;
  * Also note in the case of loading multiple files and duplicate definition of properties across files, 
  * the last loaded property file "wins". 
  * The getProperty()/get() methods also returns "" silently if no such query exists.
- * @author Seshagiri Sriram
+ *
  * @version 1.0 
  * @see PropertyLoader
  */
